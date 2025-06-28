@@ -29,6 +29,13 @@ def correct_interval_sizes(sizes):
     return corrected_sizes
 
 class CTI():
+        """
+    Conformal Thresholded Intervals for Efficient Regression.
+    Reference:
+        Paper: Conformal Thresholded Intervals for Efficient Regression (Luo et al., 2025)
+        Link: https://github.com/luo-lorry/CTI
+        Github: https://arxiv.org/abs/2407.14495
+    """
 
     def __init__(self, model, quantiles=None, upper=None, lower=None):
         # super().__init__(model)

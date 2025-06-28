@@ -1,1 +1,0 @@
-torchsort==0.1.9  # Moved after torch

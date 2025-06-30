@@ -1,4 +1,8 @@
-We compared eight different conformal prediction methods and provided a summary and analysis of their results. Regarding the implementation of the results, please refer to the following: All the code for this experiment comes from the following links:
-https://github.com/ml-stat-Sustech/TorchCP,
-https://github.com/luo-lorry/CTI, and
-https://github.com/LeyingGuan/LCP. We utilized 12 real-world datasets, and here, we primarily showcase the visualization process.
+We compared eight different conformal prediction methods and provided a summary and analysis of the results. Regarding the code for the results, please refer to: 
+
+All the code for this experiment comes from the following links:  
+[TorchCP](https://github.com/ml-stat-Sustech/TorchCP),  
+[CTI](https://github.com/luo-lorry/CTI), and  
+[LCP](https://github.com/LeyingGuan/LCP).  
+
+For the dataset usage instructions, please refer to [CTI](https://github.com/luo-lorry/CTI). We utilized 12 real-world datasets, and here we primarily showcase the visualization process.

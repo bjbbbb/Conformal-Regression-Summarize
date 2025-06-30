@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e8c39b91-cdc1-4b89-8cb6-e5972dad1ed3)### A Review and Comparative Analysis of Univariate Conformal Regression Methods
+### A Review and Comparative Analysis of Univariate Conformal Regression Methods
 
 We compared eight different conformal prediction methods and provided a summary and analysis of the results. Regarding the code for the results, please refer to: 
 
@@ -11,3 +11,4 @@ For the dataset usage instructions, please refer to [CTI](https://github.com/luo
 
 
 
+![image](https://github.com/user-attachments/assets/9bce80b9-ffb6-4897-bede-638fad3c3a95)

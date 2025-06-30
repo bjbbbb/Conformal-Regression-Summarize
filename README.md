@@ -12,3 +12,13 @@ For the dataset usage instructions, please refer to [CTI](https://github.com/luo
 
 
 ![image](https://github.com/user-attachments/assets/9bce80b9-ffb6-4897-bede-638fad3c3a95)
+
+If you find our article helpful to you, please cite the following article:
+
+@inproceedings{bao2024review,
+  title={A Review and Comparative Analysis of Univariate Conformal Regression Methods},
+  author={Bao, Jie and Colombo, Nicolo and Manokhin, Valery and Cao, Suqun and Luo, Rui},
+  booktitle={The 14th Symposium on Conformal and Probabilistic Prediction with Applications},
+  year={2025},
+  organization={PMLR}
+}

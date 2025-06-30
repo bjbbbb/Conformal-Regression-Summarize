@@ -8,3 +8,6 @@ All the code for this experiment comes from the following links:
 [LCP](https://github.com/LeyingGuan/LCP).  
 
 For the dataset usage instructions, please refer to [CTI](https://github.com/luo-lorry/CTI). We utilized 12 real-world datasets, and here we primarily showcase the visualization process.
+
+![Uploading image.png…]()
+

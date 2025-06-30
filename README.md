@@ -11,7 +11,8 @@ For the dataset usage instructions, please refer to [CTI](https://github.com/luo
 
 
 
-![image](https://github.com/user-attachments/assets/9bce80b9-ffb6-4897-bede-638fad3c3a95)
+![image](https://github.com/user-attachments/assets/4fa0db1a-24d0-49c6-9e40-074964aec192)
+
 
 If you find our article helpful to you, please cite the following article:
 
